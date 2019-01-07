@@ -10,9 +10,10 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
+    <name>petclinic</name>
+    <packaging>war</packaging>
     <version>1.4.2.RELEASE</version>
-  </parent>
-  <name>petclinic</name>
+  </parent>  
 
   <properties>
 
